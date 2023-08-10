@@ -1,0 +1,22 @@
+
+body{
+    background-color: rgba(228, 17, 17, 0.87);
+}
+.logo{
+    margin: 50px;
+    padding: 20px;
+    
+}
+p{
+    
+    margin-left: 80px;
+    padding: 0px;
+    color: white;
+    font-size: 50px;
+
+    
+}
+.img{
+margin-right: 80px;
+    float: right;
+}
